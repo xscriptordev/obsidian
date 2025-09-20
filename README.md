@@ -25,6 +25,10 @@ An elegant Obsidian theme for coders and writers with beautiful EB Garamond typo
 </p>
 
 - Desktop
+<p align="center">
+  <img src="./docs/preview/preview06.png" width="700" alt="Obsidian Xscriptor Desktop Theme Dark Mode"/>
+  <img src="./docs/preview/preview07.png" width="700" alt="Obsidian Xscriptor Desktop Theme Dark Mode"/>
+</p>
 
 ## License
 [MIT License](LICENSE.md)
