@@ -13,7 +13,7 @@ An elegant Obsidian theme for coders and writers with beautiful EB Garamond typo
 
 ## Installation
 - From Obsidian: Settings → Appearance → Community Themes → Search **Xscriptor Theme**
-- Or manually: copy `theme.css` into `.obsidian/themes/Xscriptor Theme/` and select it in Settings → Appearance
+- Or manually: copy the `files` into `.obsidian/themes/Xscriptor Theme/` and select it in Settings → Appearance
 
 ## License
 [MIT License](LICENSE.md)
