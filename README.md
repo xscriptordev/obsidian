@@ -2,7 +2,7 @@
 
 An elegant Obsidian theme for coders and writers with beautiful EB Garamond typography and flexible customization.
 
-![Preview](./screenshot.png)
+![Preview](./docs/preview/preview01.jpg)
 
 ## Features
 - Elegant EB Garamond typography
@@ -14,6 +14,17 @@ An elegant Obsidian theme for coders and writers with beautiful EB Garamond typo
 ## Installation
 - From Obsidian: Settings → Appearance → Community Themes → Search **Xscriptor Theme**
 - Or manually: copy the `files` into `.obsidian/themes/Xscriptor Theme/` and select it in Settings → Appearance
+
+## Previews
+- Mobile
+<p align="center">
+  <img src="./docs/preview/preview02.jpg" width="200" alt="Obsidian Xscriptor Mobile Theme Dark Mode"/>
+  <img src="./docs/preview/preview03.jpg" width="200" alt="Obsidian Xscriptor Mobile Theme Dark Mode"/>
+  <img src="./docs/preview/preview04.jpg" width="200" alt="Obsidian Xscriptor Mobile Theme Light Mode"/>
+  <img src="./docs/preview/preview05.jpg" width="200" alt="Obsidian Xscriptor Mobile Theme Light Mode"/>
+</p>
+
+- Desktop
 
 ## License
 [MIT License](LICENSE.md)
