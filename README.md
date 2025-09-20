@@ -1,4 +1,4 @@
-# Xscriptor Theme
+# Xscriptor
 
 An elegant Obsidian theme for coders and writers with beautiful EB Garamond typography and flexible customization.
 
