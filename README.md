@@ -12,8 +12,8 @@ An elegant Obsidian theme for coders and writers with beautiful EB Garamond typo
 - Style Settings integration for customization
 
 ## Installation
-- From Obsidian: Settings → Appearance → Community Themes → Search **Xscriptor Theme**
-- Or manually: copy the `files` into `.obsidian/themes/Xscriptor Theme/` and select it in Settings → Appearance
+- From Obsidian: Settings → Appearance → Community Themes → Search **Xscriptor**
+- Or manually: copy the `files` into `.obsidian/themes/Xscriptor/` and select it in Settings → Appearance
 
 ## Previews
 - Mobile
