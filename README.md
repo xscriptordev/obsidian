@@ -2,7 +2,7 @@
 
 An elegant Obsidian theme for coders and writers with beautiful EB Garamond typography and flexible customization.
 
-![Preview](preview.png)
+![Preview](./screenshot.png)
 
 ## Features
 - Elegant EB Garamond typography
