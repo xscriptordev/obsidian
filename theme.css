@@ -133,20 +133,38 @@ settings:
 */
 
 /* Definir fuentes EB Garamond locales */
+/* Definir fuentes EB Garamond locales */
+/* EB Garamond Regular + Variable Weights */
 @font-face {
   font-family: 'EB Garamond';
-  src: url('fonts/EBGaramond-VariableFont_wght.ttf') format('truetype');
-  font-weight: 400 700;
   font-style: normal;
+  font-weight: 400 700;
   font-display: swap;
+  src:
+    /* WOFF2 optimizado */
+    url('https://cdn.jsdelivr.net/gh/xscriptordev/obsidian@1.0.0/fonts/EBGaramond-VariableFont_wght.woff2') format('woff2'),
+    url('https://raw.githubusercontent.com/xscriptordev/obsidian/1.0.0/fonts/EBGaramond-VariableFont_wght.woff2') format('woff2'),
+    /* fallback TTF */
+    url('https://cdn.jsdelivr.net/gh/xscriptordev/obsidian@1.0.0/fonts/EBGaramond-VariableFont_wght.ttf') format('truetype'),
+    url('https://raw.githubusercontent.com/xscriptordev/obsidian/1.0.0/fonts/EBGaramond-VariableFont_wght.ttf') format('truetype'),
+    /* relativo (instalación manual) */
+    url('fonts/EBGaramond-VariableFont_wght.woff2') format('woff2'),
+    url('fonts/EBGaramond-VariableFont_wght.ttf') format('truetype');
 }
 
+/* EB Garamond Italic */
 @font-face {
   font-family: 'EB Garamond';
-  src: url('fonts/EBGaramond-Italic-VariableFont_wght.ttf') format('truetype');
-  font-weight: 400 700;
   font-style: italic;
+  font-weight: 400 700;
   font-display: swap;
+  src:
+    url('https://cdn.jsdelivr.net/gh/xscriptordev/obsidian@1.0.0/fonts/EBGaramond-Italic-VariableFont_wght.woff2') format('woff2'),
+    url('https://raw.githubusercontent.com/xscriptordev/obsidian/1.0.0/fonts/EBGaramond-Italic-VariableFont_wght.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/xscriptordev/obsidian@1.0.0/fonts/EBGaramond-Italic-VariableFont_wght.ttf') format('truetype'),
+    url('https://raw.githubusercontent.com/xscriptordev/obsidian/1.0.0/fonts/EBGaramond-Italic-VariableFont_wght.ttf') format('truetype'),
+    url('fonts/EBGaramond-Italic-VariableFont_wght.woff2') format('woff2'),
+    url('fonts/EBGaramond-Italic-VariableFont_wght.ttf') format('truetype');
 }
 
 /* Variables CSS para el tema */
