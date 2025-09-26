@@ -31,6 +31,9 @@ An elegant Obsidian theme for coders and writers with beautiful EB Garamond typo
 </p>
 
 ## License
-[MIT License](LICENSE.md)
+[MIT License](LICENSE)
+
+### Credits
+Typography: EB Garamond — licensed under SIL Open Font License 1.1.
 
 **Created by [Xscriptor](https://xscriptor.com)** · [Report Issues](https://github.com/xscriptordev/obsidian/issues)
